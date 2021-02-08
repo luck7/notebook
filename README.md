@@ -1,2 +1,2 @@
-# notebook
-My Notebook
+# Initial page
+
